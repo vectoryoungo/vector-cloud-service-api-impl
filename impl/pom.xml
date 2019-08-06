@@ -8,7 +8,7 @@
 		<version>1.5.16.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.magictown.freeworld.peterpan.service.api</groupId>
+	<groupId>com.magictown.freeworld.peterpan.service</groupId>
 	<artifactId>impl</artifactId>
 	<version>0.1.0</version>
 	<name>impl</name>
@@ -49,7 +49,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.magictown.freeworld.peterpan.service</groupId>
+			<groupId>com.asia.stupid.fucking.shit</groupId>
 			<artifactId>api</artifactId>
 			<version>0.1.0</version>
 		</dependency>

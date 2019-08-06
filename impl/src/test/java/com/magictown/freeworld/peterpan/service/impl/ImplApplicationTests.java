@@ -1,4 +1,4 @@
-package com.magictown.freeworld.peterpan.service.api.impl;
+package com.magictown.freeworld.peterpan.service.impl;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
